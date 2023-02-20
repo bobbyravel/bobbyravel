@@ -1,4 +1,4 @@
-Hi, I'm Bobby Ravel Moreno, but you can call me Bob. 👋
+Hi, I'm Bobby Ravel Moreno.
 I'm currenlty an undergrad student majoring in computer science. 
 I have a great interest in the world of DATA. This started when I entered my 3rd semester of college. 
 To be precise, it started when I chose to dive deeper into the world of Artificial Intelligence.
